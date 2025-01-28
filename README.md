@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raghaveni864/leetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/raghaveni864/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/raghaveni864/leetCode/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raghaveni864/leetCode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/raghaveni864/leetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
