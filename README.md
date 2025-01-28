@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/raghaveni864/leetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/raghaveni864/leetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/raghaveni864/leetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/raghaveni864/leetCode/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raghaveni864/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/raghaveni864/leetCode/tree/master/0010-regular-expression-matching) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/raghaveni864/leetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
