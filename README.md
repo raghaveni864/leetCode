@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghaveni864/leetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghaveni864/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raghaveni864/leetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/raghaveni864/leetCode/tree/master/0036-valid-sudoku) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/raghaveni864/leetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raghaveni864/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/raghaveni864/leetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/raghaveni864/leetCode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/raghaveni864/leetCode/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/raghaveni864/leetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/raghaveni864/leetCode/tree/master/0179-largest-number) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raghaveni864/leetCode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/raghaveni864/leetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
