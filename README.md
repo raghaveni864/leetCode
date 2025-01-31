@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/raghaveni864/leetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghaveni864/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raghaveni864/leetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/raghaveni864/leetCode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/raghaveni864/leetCode/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/raghaveni864/leetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/raghaveni864/leetCode/tree/master/0179-largest-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raghaveni864/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghaveni864/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raghaveni864/leetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/raghaveni864/leetCode/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
