@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghaveni864/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raghaveni864/leetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/raghaveni864/leetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/raghaveni864/leetCode/tree/master/0037-sudoku-solver) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/raghaveni864/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/raghaveni864/leetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/raghaveni864/leetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/raghaveni864/leetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/raghaveni864/leetCode/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/raghaveni864/leetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/raghaveni864/leetCode/tree/master/0179-largest-number) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghaveni864/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/raghaveni864/leetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/raghaveni864/leetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/raghaveni864/leetCode/tree/master/0051-n-queens) |
 ## Tree
 |  |
@@ -165,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/raghaveni864/leetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/raghaveni864/leetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
